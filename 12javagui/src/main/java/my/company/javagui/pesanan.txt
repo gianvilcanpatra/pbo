@@ -1,0 +1,11 @@
+Nama : Gian
+Alamat : bandung
+No Telp : 081372864812
+--------------------------------------
+Pesanan : 
+- Spaghetti(40000)
+- Steak(50000)
+- Pizza(80000)
+--------------------------------------
+Total Bayar : 
+Rp. 170000
